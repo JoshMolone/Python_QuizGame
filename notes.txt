@@ -1,0 +1,1 @@
+Goal: Build a program that automates a file system by saving specific file types to specific locations or moving them to their preferred location 
