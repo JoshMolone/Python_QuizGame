@@ -1,1 +1,1 @@
-Goal: Build a program that automates a file system by saving specific file types to specific locations or moving them to their preferred location 
+Goal: Python program boiler for a quiz-like game  using conditional logic to determine if user supplies correct answer. Tally score at the end with a  running sum 
